@@ -46,6 +46,9 @@ I design structured prompts, test LLM behavior and create practical AI solutions
 
 ## 📌 Featured projects
 
+### [⚖️ LegalBot — Legal Document Assistant](https://github.com/dimitry8st-prog/Legal-Bot-)
+Telegram bot for processing PDF court decisions, detecting possible procedural violations, finding references to Russian law and generating a DOCX draft appeal. Uses OCR, RAG, GigaChat, ChromaDB and python-docx.
+
 ### [🤖 Multimodal AI Assistant](https://github.com/dimitry8st-prog/PEM_04-multimodal_assistant)
 Telegram assistant for text, PDF, image and voice processing. Includes prompt routing, Vision, speech recognition, voice synthesis and image generation.
 
