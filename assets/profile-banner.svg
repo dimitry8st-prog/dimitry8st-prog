@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Dmitry Stepanov AI Automation Engineer">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Dmitry Stepanov Prompt Engineer">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#F7F3EA"/>
@@ -31,12 +31,12 @@
   </g>
   <text x="115" y="115" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#2457A6" letter-spacing="3">HELLO, I AM</text>
   <text x="115" y="170" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="800" fill="#17324D">DMITRY STEPANOV</text>
-  <text x="115" y="212" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="600" fill="#48657F">AI Automation Engineer • Python Developer • Prompt Engineer</text>
+  <text x="115" y="212" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#48657F">PROMPT ENGINEER</text>
   <rect x="115" y="230" width="340" height="4" rx="2" fill="url(#accent)"/>
   <g transform="translate(850 100)">
     <rect x="0" y="0" width="220" height="130" rx="22" fill="#FFFFFF" opacity="0.92" filter="url(#shadow)"/>
-    <text x="30" y="48" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#2457A6">AI • BOTS • LLM</text>
-    <text x="30" y="82" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600" fill="#48657F">Automation that</text>
-    <text x="30" y="108" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600" fill="#48657F">creates real value</text>
+    <text x="30" y="48" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#2457A6">PROMPTS • LLM</text>
+    <text x="30" y="82" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600" fill="#48657F">Clear instructions.</text>
+    <text x="30" y="108" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600" fill="#48657F">Useful AI results.</text>
   </g>
 </svg>
