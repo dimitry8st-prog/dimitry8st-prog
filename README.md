@@ -44,21 +44,18 @@ I design structured prompts, test LLM behavior and create practical AI solutions
 | **AI automation** | Automation of routine operations and information processing |
 | **Prompt evaluation** | Comparison of prompt variants, response analysis and improvement |
 
-## 📌 Featured work
+## 📌 Featured projects
 
-### 🧠 Prompt Engineering Lab
-A growing collection of tested prompts, experiments and practical LLM use cases.
+### [🤖 Multimodal AI Assistant](https://github.com/dimitry8st-prog/PEM_04-multimodal_assistant)
+Telegram assistant for text, PDF, image and voice processing. Includes prompt routing, Vision, speech recognition, voice synthesis and image generation.
 
-### 🤖 AI Telegram Assistant
-An LLM-powered assistant with dialogue history, configurable prompts and external API integrations.
+### [⚡ QuickReply — FAQ Support Bot](https://github.com/dimitry8st-prog/PEM_06_QuickReply)
+Support bot with FAQ search, negative-tone detection, GigaChat fallback and SQLite dialogue history.
 
-### 📊 Monitoring Bot
-A Telegram-based monitoring and notification system for tracking events and delivering alerts.
+### [🧠 Telegram RAG Bot](https://github.com/dimitry8st-prog/REr_09.1-RAG_BOT)
+RAG assistant with FAISS vector search, document indexing, dialogue memory, source-aware answers and OpenAI/ProxyAPI implementations.
 
-### ⚙️ AI Automation Toolkit
-Python utilities, prompt templates and integrations for automating repetitive tasks.
-
-> Detailed project pages with screenshots, architecture and launch instructions will be added as the portfolio is updated.
+> Each project includes a task description, technology stack, functional blocks, visual preview, architecture and launch instructions.
 
 ## 📈 GitHub statistics
 
