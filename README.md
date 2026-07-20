@@ -46,6 +46,9 @@ I design structured prompts, test LLM behavior and create practical AI solutions
 
 ## 📌 Featured projects
 
+### 1. [🚘 AutoSfera AI — Multi-Agent Platform for Car Dealerships](https://github.com/dimitry8st-prog/AutoSfera-AI-)
+A working multi-agent AI platform for automotive dealerships with four specialized agents for sales, customer support, service and employee assistance. Includes 16 business skills, RAG over the dealership knowledge base, FastAPI, SQLite persistence, lead and service-request management, analytics, dealer-level data isolation and an offline demonstration mode. Verified by 19 automated tests.
+
 ### [⚖️ LegalBot — Legal Document Assistant](https://github.com/dimitry8st-prog/Legal-Bot-)
 Telegram bot for processing PDF court decisions, detecting possible procedural violations, finding references to Russian law and generating a DOCX draft appeal. Uses OCR, RAG, GigaChat, ChromaDB and python-docx.
 
