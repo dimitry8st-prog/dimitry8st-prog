@@ -48,9 +48,24 @@ I design structured prompts, test LLM behavior and create practical AI solutions
 
 ### 1. [🌿 Лендинг частного психолога](https://github.com/dimitry8st-prog/Lending-)
 
-<a href="https://psychologist-landing.ketwolsheb.chatgpt.site"><img src="https://raw.githubusercontent.com/dimitry8st-prog/Lending-/main/public/images/psychologist-landing-cover.png" alt="Лендинг частного психолога" width="100%" /></a>
+Портфолио-кейс адаптивного конверсионного сайта для частных психологов, психотерапевтов и специалистов помогающих профессий. Лендинг создан как профессиональная интернет-визитка и основа для получения заявок, запуска Google Ads и дальнейшего SEO-продвижения.
 
-Конверсионный адаптивный лендинг для частной психологической практики: сильный первый экран, блоки доверия, запросы, процесс консультации, отзывы, FAQ и форма записи. Реализованы SEO-метаданные и Open Graph; проект готов к подключению аналитики, рекламы и рабочего обработчика заявок. **[Открыть демо →](https://psychologist-landing.ketwolsheb.chatgpt.site)**
+**Цель проекта:** представить специалиста, сформировать доверие, объяснить формат консультации, снять основные сомнения и привести посетителя к записи без агрессивных обещаний и давления.
+
+**Что входит в решение:**
+
+- первый экран с понятным предложением и призывом к записи;
+- блоки о специалисте, направлениях работы и процессе консультации;
+- преимущества, отзывы, FAQ, контакты и форма заявки;
+- последовательный пользовательский путь от знакомства до обращения;
+- адаптация под компьютер, планшет и смартфон;
+- семантическая структура, SEO-метаданные, sitemap и robots;
+- подготовка к подключению Google Analytics 4, Google Tag Manager и рекламных целей;
+- архитектура для интеграции с CRM, календарём, мессенджерами или WordPress.
+
+Стек: **Next.js 16, React 19, TypeScript, Vinext и Cloudflare**. В демоверсии используются вымышленные данные психолога Анны Мироновой. Перед рабочим запуском требуется заменить контент, подключить обработку формы, аналитику и документы по персональным данным.
+
+**[Открыть работающий сайт →](https://psychologist-landing.ketwolsheb.chatgpt.site)** · **[Исходный код и полное описание →](https://github.com/dimitry8st-prog/Lending-)**
 
 ### 2. [✨ ÉLAN — Evidence-Based Cosmetology Clinic Landing](https://github.com/dimitry8st-prog/ELAN---)
 One-page landing for the **ÉLAN** cosmetology clinic (Moscow): services, specialists, pricing, promotions, gallery, doctor blog, FAQ accordion and an online consultation booking form. Built with Next.js 16, React 19, Vite/vinext, Tailwind CSS 4 and TypeScript; ready for Cloudflare Workers / D1.
