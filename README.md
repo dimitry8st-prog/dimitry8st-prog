@@ -46,10 +46,16 @@ I design structured prompts, test LLM behavior and create practical AI solutions
 
 ## 📌 Featured projects
 
-### 1. [✨ ÉLAN — Evidence-Based Cosmetology Clinic Landing](https://github.com/dimitry8st-prog/ELAN---)
+### 1. [🌿 Лендинг частного психолога](https://github.com/dimitry8st-prog/Lending-)
+
+<a href="https://psychologist-landing.ketwolsheb.chatgpt.site"><img src="https://raw.githubusercontent.com/dimitry8st-prog/Lending-/main/public/images/psychologist-landing-cover.png" alt="Лендинг частного психолога" width="100%" /></a>
+
+Конверсионный адаптивный лендинг для частной психологической практики: сильный первый экран, блоки доверия, запросы, процесс консультации, отзывы, FAQ и форма записи. Реализованы SEO-метаданные и Open Graph; проект готов к подключению аналитики, рекламы и рабочего обработчика заявок. **[Открыть демо →](https://psychologist-landing.ketwolsheb.chatgpt.site)**
+
+### 2. [✨ ÉLAN — Evidence-Based Cosmetology Clinic Landing](https://github.com/dimitry8st-prog/ELAN---)
 One-page landing for the **ÉLAN** cosmetology clinic (Moscow): services, specialists, pricing, promotions, gallery, doctor blog, FAQ accordion and an online consultation booking form. Built with Next.js 16, React 19, Vite/vinext, Tailwind CSS 4 and TypeScript; ready for Cloudflare Workers / D1.
 
-### 2. [🚘 AutoSfera AI — Multi-Agent Platform for Car Dealerships](https://github.com/dimitry8st-prog/AutoSfera-AI-)
+### 3. [🚘 AutoSfera AI — Multi-Agent Platform for Car Dealerships](https://github.com/dimitry8st-prog/AutoSfera-AI-)
 **OpenAI Build Week 2026 participant project.**
 
 A working multi-agent AI platform for automotive dealerships with four specialized agents for sales, customer support, service and employee assistance. Includes 16 business skills, RAG over the dealership knowledge base, FastAPI, SQLite persistence, lead and service-request management, analytics, dealer-level data isolation and an offline demonstration mode. Verified by 19 automated tests.
