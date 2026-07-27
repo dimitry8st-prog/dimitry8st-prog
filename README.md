@@ -74,10 +74,40 @@ I design structured prompts, test LLM behavior and create practical AI solutions
 
 **[Открыть работающий сайт →](https://psychologist-landing.ketwolsheb.chatgpt.site)** · **[Исходный код и полное описание →](https://github.com/dimitry8st-prog/Lending-)**
 
-### 2. [✨ ÉLAN — Evidence-Based Cosmetology Clinic Landing](https://github.com/dimitry8st-prog/ELAN---)
+### 2. [🥋 Force Team — лендинг клуба единоборств](https://github.com/dimitry8st-prog/-_-)
+
+Кратко: адаптивный конверсионный сайт секции самбо, боевого самбо и джиу-джитсу для записи на пробную тренировку.
+
+<details>
+<summary><strong>Подробнее о проекте</strong></summary>
+
+Портфолио-кейс одностраничного сайта спортивного клуба. Лендинг создан, чтобы помочь родителям детей от 4 лет и взрослым спортсменам быстро понять направления, расписание и филиалы и оставить заявку на бесплатное пробное занятие.
+
+**Зачем создан:** спортивной секции нужен понятный цифровой вход вместо разрозненных сообщений в мессенджерах — объяснить разницу направлений, снять страх «не тот возраст / не готов», показать формат старта и собрать контакты без звонка администратору.
+
+**Для кого:**
+- родители детей от 4 лет — безопасный старт и запись ребёнка;
+- подростки и взрослые — боевое самбо и джиу-джитсу;
+- владелец клуба — визитка для рекламы, сарафана и локального продвижения;
+- заказчик лендинга — готовый шаблон спортивной школы под замену бренда.
+
+**Что входит в решение:**
+- сильный первый экран с фирменным визуалом и CTA на запись;
+- блоки о клубе, направлениях, тренерах, расписании и абонементах;
+- филиалы, медиа-блок жизни клуба и форма заявки с валидацией;
+- адаптив под компьютер, планшет и смартфон (fluid-типографика, мобильное меню);
+- базовая SEO-подготовка и архитектура под Cloudflare Workers.
+
+Стек: **React 19, TypeScript, Vinext / Vite, CSS, Cloudflare Workers**. В демоверсии — нейтральный бренд Force Team; перед запуском нужно подставить реальные фото, адреса, цены и обработчик формы (CRM / Telegram / email).
+
+</details>
+
+**[Исходный код и полное описание →](https://github.com/dimitry8st-prog/-_-)**
+
+### 3. [✨ ÉLAN — Evidence-Based Cosmetology Clinic Landing](https://github.com/dimitry8st-prog/ELAN---)
 One-page landing for the **ÉLAN** cosmetology clinic (Moscow): services, specialists, pricing, promotions, gallery, doctor blog, FAQ accordion and an online consultation booking form. Built with Next.js 16, React 19, Vite/vinext, Tailwind CSS 4 and TypeScript; ready for Cloudflare Workers / D1.
 
-### 3. [🚘 AutoSfera AI — Multi-Agent Platform for Car Dealerships](https://github.com/dimitry8st-prog/AutoSfera-AI-)
+### 4. [🚘 AutoSfera AI — Multi-Agent Platform for Car Dealerships](https://github.com/dimitry8st-prog/AutoSfera-AI-)
 **OpenAI Build Week 2026 participant project.**
 
 A working multi-agent AI platform for automotive dealerships with four specialized agents for sales, customer support, service and employee assistance. Includes 16 business skills, RAG over the dealership knowledge base, FastAPI, SQLite persistence, lead and service-request management, analytics, dealer-level data isolation and an offline demonstration mode. Verified by 19 automated tests.
