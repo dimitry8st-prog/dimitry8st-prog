@@ -148,9 +148,9 @@ RAG assistant with FAISS vector search, document indexing, dialogue memory, sour
 ## 📬 Contacts
 
 - GitHub: [dimitry8st-prog](https://github.com/dimitry8st-prog)
-- Telegram: [@Dmitryprompt](https://t.me/Dmitryprompt)
-- Email: [dimitry8st@gmail.com](mailto:dimitry8st@gmail.com)
-- Email: [dimitry.analytix@gmail.com](mailto:dimitry.analytix@gmail.com)
+- Telegram: [@stepanovda_craft](https://t.me/stepanovda_craft)
+- Электронная почта: [dimitry8st@gmail.com](mailto:dimitry8st@gmail.com)
+- Электронная почта: [dimitry.analytix@gmail.com](mailto:dimitry.analytix@gmail.com)
 
 ---
 
