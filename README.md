@@ -46,7 +46,42 @@ I design structured prompts, test LLM behavior and create practical AI solutions
 
 ## 📌 Featured projects
 
-### 1. [🌿 Лендинг частного психолога](https://github.com/dimitry8st-prog/Lending-)
+### 1. [📈 KPI Pulse — AI-аналитик бизнес-показателей](https://github.com/dimitry8st-prog/KPI-Pulse)
+
+Кратко: загружает данные из CSV или Google Sheets, рассчитывает ключевые KPI,
+показывает динамику и аномалии, отвечает на вопросы руководителя и отправляет
+дайджест в Telegram.
+
+<details>
+<summary><strong>Подробнее о проекте</strong></summary>
+
+KPI Pulse создан для владельцев малого и среднего бизнеса и руководителей,
+которым важно быстро понять состояние компании без ручного сведения таблиц
+и погружения в технические детали.
+
+**Какую задачу решает:** объединяет в одном интерфейсе выручку, стоимость
+привлечения клиента, LTV, MRR, отток и конверсию; показывает изменения по
+месяцам, выделяет аномалии и помогает интерпретировать цифры через AI-аналитика.
+
+**Что входит в решение:**
+
+- импорт CSV и Google Sheets с проверкой структуры данных;
+- дашборд KPI с графиками, дельтами и обнаружением аномалий;
+- AI-чат: вопрос обычными словами — ответ с объяснением и рекомендацией;
+- Telegram-команды и еженедельный KPI-дайджест по расписанию;
+- локальная история диалогов и RAG-контекст по данным компании;
+- структурированное журналирование запросов, ошибок и времени ответа;
+- защита логов: хеширование Telegram ID и удаление секретов;
+- 26 автоматизированных тестов.
+
+Стек: **Python, Streamlit, pandas, Plotly, Claude, ChromaDB, SQLite,
+python-telegram-bot и APScheduler**.
+
+</details>
+
+**[Исходный код и полное описание →](https://github.com/dimitry8st-prog/KPI-Pulse)**
+
+### 2. [🌿 Лендинг частного психолога](https://github.com/dimitry8st-prog/Lending-)
 
 Кратко: профессиональный адаптивный сайт-визитка для привлечения клиентов и подготовки к рекламе и SEO.
 
@@ -74,7 +109,7 @@ I design structured prompts, test LLM behavior and create practical AI solutions
 
 **[Открыть работающий сайт →](https://psychologist-landing.ketwolsheb.chatgpt.site)** · **[Исходный код и полное описание →](https://github.com/dimitry8st-prog/Lending-)**
 
-### 2. [🥋 Force Team — лендинг клуба единоборств](https://github.com/dimitry8st-prog/-_-)
+### 3. [🥋 Force Team — лендинг клуба единоборств](https://github.com/dimitry8st-prog/-_-)
 
 Кратко: адаптивный конверсионный сайт секции самбо, боевого самбо и джиу-джитсу для записи на пробную тренировку.
 
@@ -104,10 +139,10 @@ I design structured prompts, test LLM behavior and create practical AI solutions
 
 **[Исходный код и полное описание →](https://github.com/dimitry8st-prog/-_-)**
 
-### 3. [✨ ÉLAN — Evidence-Based Cosmetology Clinic Landing](https://github.com/dimitry8st-prog/ELAN---)
+### 4. [✨ ÉLAN — Evidence-Based Cosmetology Clinic Landing](https://github.com/dimitry8st-prog/ELAN---)
 One-page landing for the **ÉLAN** cosmetology clinic (Moscow): services, specialists, pricing, promotions, gallery, doctor blog, FAQ accordion and an online consultation booking form. Built with Next.js 16, React 19, Vite/vinext, Tailwind CSS 4 and TypeScript; ready for Cloudflare Workers / D1.
 
-### 4. [🚘 AutoSfera AI — Multi-Agent Platform for Car Dealerships](https://github.com/dimitry8st-prog/AutoSfera-AI-)
+### 5. [🚘 AutoSfera AI — Multi-Agent Platform for Car Dealerships](https://github.com/dimitry8st-prog/AutoSfera-AI-)
 **OpenAI Build Week 2026 participant project.**
 
 A working multi-agent AI platform for automotive dealerships with four specialized agents for sales, customer support, service and employee assistance. Includes 16 business skills, RAG over the dealership knowledge base, FastAPI, SQLite persistence, lead and service-request management, analytics, dealer-level data isolation and an offline demonstration mode. Verified by 19 automated tests.
